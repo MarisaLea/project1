@@ -1,0 +1,4 @@
+//tealium universal tag - utag.105 ut4.0.201905171800, Copyright 2019 Tealium.com Inc. All Rights Reserved.
+try{(function(id,loader,u){try{u=utag.o[loader].sender[id]={}}catch(e){u=utag.sender[id]};u.ev={'view':1};u.base_url='//script.crazyegg.com/pages/scripts/0062/9490.js';u.map={};u.extend=[function(a,b){try{if(1){if(utag.ut.ranOnce105){return false;}
+utag.ut.ranOnce105=1;}}catch(e){utag.DB(e)}}];u.send=function(a,b,c,d,e,f){if(u.ev[a]||typeof u.ev.all!='undefined'){for(c=0;c<u.extend.length;c++){try{d=u.extend[c](a,b);if(d==false)return}catch(e){if(typeof utag_err!='undefined'){utag_err.push({e:'extension error:'+e,s:utag.cfg.path+'utag.'+id+'.js',l:c,t:'ex'})}}};u.head=document.getElementsByTagName('head')[0];u.scr=document.createElement('script');u.scr.src=u.base_url;u.head.appendChild(u.scr);}}
+try{utag.o[loader].loader.LOAD(id)}catch(e){utag.loader.LOAD(id)}})('105','urbanoutfitters.a15-fpweb');}catch(e){}

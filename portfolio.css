@@ -1,0 +1,60 @@
+body{
+  background-color: SeaShell;
+
+}
+
+h1{
+  Padding-top: 40px;
+  Padding-bottom: 40px;
+  color: Brown;
+  font: 100px/20px Optima, sans-serif;
+
+}
+
+h2{
+  Padding-top: 35px;
+  Padding-bottom: 35px;
+  font: 60px/20px Optima, sans-serif;
+
+}
+
+h4{
+  Padding-top: 25px;
+  font: 50px Optima, sans-serif;
+
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.main_img img{
+  padding-top: 35px;
+  height: 800px;
+  width: 1020px;
+
+}
+
+.yellow_eyelet_maxi_dress img{
+  padding-top: 25px;
+  padding-left: 25px;
+  height: 500px;
+  width: 400px;
+
+}
+
+.Leather_jacket_studded img{
+  padding-top: 25px;
+  padding-right: 25px;
+  height: 500px;
+  width: 400px;
+
+}
+
+
+a{
+  color: black;
+  font: 20px/20px Optima, sans-serif;
+}
